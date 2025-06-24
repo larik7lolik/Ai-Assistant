@@ -1,6 +1,6 @@
 # ИИ-ассистент для онлайн-школы французского языка "Lola Parle"
 Ссылка на проект: https://t.me/Lolaparleonline_bot
-![Скриншот 1][(https://example.com/image.png)](https://github.com/larik7lolik/Ai-Assistant/blob/main/2025-06-24_16-22-13.png?raw=true)
+![Скриншот 1](https://github.com/larik7lolik/Ai-Assistant/blob/main/2025-06-24_16-22-13.png?raw=true)
 
 
 
